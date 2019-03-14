@@ -1,0 +1,1 @@
+These gene drive scripts are based on dtk-tools. Installing and further queries on dtk-tools, please email support@idmod.org.
