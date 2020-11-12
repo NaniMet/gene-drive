@@ -1,0 +1,21 @@
+Seasonality calibrations:
+100 simulations per iteration, 10 iterations per study location 
+
+Calibrations:
+25 simulations per iteration, 3 iteration per study location
+
+Baseline simulations:
+25 simulations per scenario
+
+Experiments:
+Scenarios without gene drives:
+25 simulations per scenario
+
+Scenarios with gene drives:
+1) Non-spatial framework:
+1210 simulations per scenario
+
+2) Spatial framework:
+225 simulations per scenario
+
+
